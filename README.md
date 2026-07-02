@@ -1,5 +1,5 @@
 # intern-maxxing-2000
-Reels are out, and reading is in this summer.Converts any PDF or EPUB into a professional-looking website, so it looks like you're doing serious research at work while reading any book.
+Reels are out, and reading is in this summer. Convert any PDF or EPUB into a professional-looking website, so it looks like you're doing serious research at work while reading any book.
 
 Instead of it looking like you're reading because you finished your work for the week on Monday and suppliers aren't answering your emails, you can appear as a 'serious hard worker' who 'loves their work.'There's no better way to get ahead on your summer reading list than in an air-conditioned office with free coffee.
 
