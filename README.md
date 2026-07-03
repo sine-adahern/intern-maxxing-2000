@@ -16,4 +16,4 @@ Simply upload any PDF or EPUB and it will be reformatted into an industry-standa
 ## Top Tips
 
 - Hide it among multiple tabs. If someone walks by, simply switch to a real website and pretend you're cross-referencing.
-- Upload books in **EPUB** format whenever possible. PDFs are harder to parse correctly, while EPUBs include structured headers and paragraph breaks, making them much easier to format.
+- Upload books in **EPUB** format whenever possible.   PDFs are harder to parse correctly, while EPUBs include structured headers and paragraph breaks, making them much easier to format.
